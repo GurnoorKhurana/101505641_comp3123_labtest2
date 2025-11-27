@@ -1,3 +1,26 @@
+# React Weather App
+
+This project is a simple weather application built with React. The app lets users search for any city and displays the current weather using real-time data from the OpenWeatherMap API. The goal was to practice working with APIs, React components, props, state, and hooks like `useEffect`.
+
+---
+
+## 🛠 Features
+- Search for weather by city name  
+- Displays temperature, description, humidity, feels-like, and weather icon  
+- Uses props to pass data between components  
+- `useState` for data handling  
+- `useEffect` for loading weather when the city changes  
+- Simple UI with a weather card layout  
+
+---
+
+## 🌐 API Used
+**OpenWeatherMap – Current Weather API**  
+https://openweathermap.org/current
+
+Example endpoint used in this project:
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
