@@ -20,6 +20,8 @@ https://openweathermap.org/current
 
 Example endpoint used in this project:
 
+https://api.openweathermap.org/data/2.5/weather?q={city}&appid=YOUR_API_KEY&units=metric
+
 
 # Getting Started with Create React App
 
